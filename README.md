@@ -1,6 +1,8 @@
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Interested in learning [C#]
+Interested in learning to become pro PUBG Mobile player
 
 ### Getting Started
 
