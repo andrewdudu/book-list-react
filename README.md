@@ -1,6 +1,7 @@
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Interested in learning [C#]
 
 ### Getting Started
 
