@@ -2,6 +2,7 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 Interested in learning [C#]
+Interested in learning [Java]
 
 ### Getting Started
 
@@ -24,3 +25,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+#### Author
+(Andrew Wijaya)[https://github.com/andrewdudu]
