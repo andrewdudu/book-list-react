@@ -28,4 +28,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm start
 ```
 #### Author
-(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ (Andrew Wijaya)[https://github.com/andrewdudu]
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ [Andrew Wijaya](https://github.com/andrewdudu)
