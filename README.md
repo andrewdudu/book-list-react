@@ -2,9 +2,14 @@
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 sleeping
+Interested in learning [C#]
+Interested in learning to become pro PUBG Mobile player
+Interested in learning [Java]
+
 ### Getting Started
 
 There are two methods for getting started with this repo.
+Well, simple enough to get started, short enough to be master.
 
 #### Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
@@ -23,3 +28,5 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+#### Author
+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ [Andrew Wijaya](https://github.com/andrewdudu)
